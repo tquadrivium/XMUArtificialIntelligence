@@ -18,6 +18,8 @@ WeChat Group: Add 'haozhan1993' to join the WeChat group.
 
 Course discussion: https://github.com/tquadrivium/XMUArtificialIntelligence/issues
 
+Course pages: http://sanyisishu.com/course/phil003/phil003.html
+
 ### 2. Lecture Content
 
 - Chapter 01：Introduction
