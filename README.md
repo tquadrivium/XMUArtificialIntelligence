@@ -24,11 +24,11 @@ Course pages: http://sanyisishu.com/course/phil003/phil003.html
 
 - Chapter 01：Introduction
 
-  [slides] [video]
+  [[slides]](/slides/chapter01/01.pdf) [[video]](https://www.bilibili.com/video/BV1NT4y1F7YP/)
 
 - Chapter 02：Artificial Intelligence and Cognitive Modeling Have the Same Problem
 
-  [slides] [video]
+  [[slides]](/slides/chapter01/01.pdf) [[video]](https://www.bilibili.com/video/BV1Fa4y1s7X2/)
 
 - Chapter 03：The Piaget-MacGuyver Room
 
