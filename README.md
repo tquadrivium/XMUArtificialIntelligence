@@ -28,11 +28,11 @@ Course pages: http://sanyisishu.com/course/phil003/phil003.html
 
 - Chapter 02：Artificial Intelligence and Cognitive Modeling Have the Same Problem
 
-  [[slides]](/slides/chapter01/01.pdf) [[video]](https://www.bilibili.com/video/BV1Fa4y1s7X2/)
+  [[slides]](/slides/chapter02/01.pdf) [[video]](https://www.bilibili.com/video/BV1Fa4y1s7X2/)
 
 - Chapter 03：The Piaget-MacGuyver Room
 
-  [slides] [video]
+  [slides1](/slides/chapter03/1.pdf) [slide2](/slides/chapter03/2.pdf) [video]
 
 - Chapter 04：Beyond the Octopus: From General Intelligence toward a Human-likeMind
 
