@@ -32,11 +32,11 @@ Course pages: http://sanyisishu.com/course/phil003/phil003.html
 
 - Chapter 03：The Piaget-MacGuyver Room
 
-  [slides1](/slides/chapter03/1.pdf) [slide2](/slides/chapter03/2.pdf) [video]
+  [[slides1]](/slides/chapter03/1.pdf) [[slide2]](/slides/chapter03/2.pdf) [video]
 
 - Chapter 04：Beyond the Octopus: From General Intelligence toward a Human-likeMind
 
-  [slides] [video]
+  [[slides1]](/slides/chapter04/1.pdf) [[slide2]](/slides/chapter04/2.pdf) [video]
 
 - Chapter 05：One Decade of Universal Artificial Intelligence
 
