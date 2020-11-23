@@ -40,23 +40,23 @@ Course pages: http://sanyisishu.com/course/phil003/phil003.html
 
 - Chapter 05：One Decade of Universal Artificial Intelligence
 
-  [slides] [video]
+  [[slides]](/slides/chapter05/1.pdf)  [[video]](https://www.bilibili.com/video/BV1Fa4y1s7X2?p=2)
 
 - Chapter 06： Deep Reinforcement Learning as Foundation for Artificial General Intelligence
 
-  [slides] [video]
+  [[slides]](/slides/chapter06/1.pdf)  [[video]](https://www.bilibili.com/video/BV1Ka411w7mj/)
 
 - Chapter 07：The LIDA Model as a Foundational Architecture for AGI
 
-  [slides] [video]
+  [[slides]](/slides/chapter07/1.pdf)  [[video]](https://www.bilibili.com/video/BV1Ka411w7mj?p=2)
 
 - Chapter 08：The Architecture of Human-Like General Intelligence
 
-  [slides] [video]
+  [[slides]](/slides/chapter08/1.pdf) [[video]](https://www.bilibili.com/video/BV19t4y1a7w5/)
 
 - Chapter 09：A New Constructivist AI
 
-  [slides] [video]
+  [[slides]](/slides/chapter09/1.pdf)  [[video]](https://www.bilibili.com/video/BV19t4y1a7w5/)
 
 - Chapter 10：Towards an Actual Gödel Machine Implementation
 
